@@ -1,4 +1,4 @@
-# creating flask ap
+# creating flask app
 
 ## create the flask app
 app=Flask(__name__)
